@@ -1,0 +1,1 @@
+# PARCIALES-pensamiento-algoritmico
